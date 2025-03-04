@@ -80,7 +80,8 @@ python ml_model_crypto.py
 The complete source code is hosted on GitHub:
 https://github.com/kabradhruv/crypto-price-prediction
 
-**Additional Notes**
+**Additional Notes:**
+
 The primary goal of this project is to demonstrate a clear, reproducible approach to solving a crypto prediction problem using both ML and AI techniques.
 While the initial results may serve as a baseline, there is ample scope for improvement through hyperparameter tuning, additional feature engineering, and exploration of other advanced models.
 The project structure and code are organized to facilitate ease of understanding and future modifications.
